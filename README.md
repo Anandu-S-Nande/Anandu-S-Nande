@@ -1,5 +1,5 @@
 <h1 align="center">
-  <b>Abhigyan Trips</b>
+  <b>Anandu Trips</b>
 </h1>
 
 Heya! I'm Anandu S Nande, a Python Django Developer currently living in Kerala, India. I'm preparing for 
