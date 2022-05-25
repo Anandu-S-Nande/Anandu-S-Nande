@@ -3,7 +3,7 @@
   <b>Anandu's Trips</b>
 </h1>
 
-Heya! I'm Abhigyan Tripathi, a student currently living in Mumbai, India. I'm preparing for 
+Heya! I'm Anandu S Nande, a Python Django Developer, currently living in Kerala, India. I'm preparing for 
 <a href="https://en.wikipedia.org/wiki/Joint_Entrance_Examination">JEE</a>, 
 and learning programming through small projects  on the side.
 
