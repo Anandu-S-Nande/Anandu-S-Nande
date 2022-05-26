@@ -4,7 +4,7 @@
 </h1>
 
 Heya! I'm Anandu S Nande, a Python Django Developer, currently living in Kerala, India. I'm preparing for 
-<a href="https://en.wikipedia.org/wiki/Joint_Entrance_Examination">JEE</a>, 
+<a href="https://en.wikipedia.org/wiki/Joint_Entrance_Examination"></a>, 
 and learning programming through small projects  on the side.
 
 <br>
@@ -18,12 +18,12 @@ and learning programming through small projects  on the side.
 </p>
 
 python
-class AbhigyanTrips():
+class AnanduTrips():
     
   def __init__(self):
-    self.name = "Abhigyan Tripathi";
-    self.username = "abhigyantrips";
-    self.location = "Mumbai, India";
+    self.name = "Anandu S Nande";
+    self.username = "anandutrips";
+    self.location = "Kerala, India";
     self.twitter = "@abhigyantrips";
     self.web = "https://abhigyantrips.dev";
   
@@ -31,7 +31,7 @@ class AbhigyanTrips():
     return self.name
 
 if __name__ == '__main__':
-    me = AbhigyanTrips()
+    me = AnanduTrips()
 
 
 <div align="center">
