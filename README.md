@@ -1,7 +1,7 @@
 Hi 👋 My name is Anandu S Nande 🙌
 ==================================
 
-Python Django Developer
+Python Django Developer 👨‍💻
 ----------------
 
 * 🌍  I'm based in Trivandrum
