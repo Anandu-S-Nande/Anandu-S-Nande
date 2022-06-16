@@ -1,4 +1,4 @@
-Hi 👋 My name is Anandu S Nande 🙌
+Hi 👋 My name is Anandu S Nande 🕵️‍♂️
 ==================================
 
 Python Django Developer 👨‍💻
