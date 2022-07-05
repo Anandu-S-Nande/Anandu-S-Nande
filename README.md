@@ -4,7 +4,7 @@ Hi 👋 My name is Anandu S Nande 🕵️‍♂️
 Python Django Developer 👨‍💻
 ----------------
 
-* 🌍  I'm based in Ernakulam
+* 🌍  I'm based in Trivandrum
 * 🧠  I'm learning Django Rest Framework
 
 ### Skills
