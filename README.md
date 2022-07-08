@@ -6,6 +6,7 @@ Python Django Developer 👨‍💻
 
 * 🌍  I'm based in Trivandrum
 * 🧠  I'm learning Django Rest Framework
+* 🕵️‍♀️  I'm learning How to build My IT company
 
 ### Skills
 
