@@ -2,7 +2,7 @@ Hi 👋 I'M  Anandu S Nande 🕵️‍♂️
 ============================
 
 Python Django Developer 👨‍💻
--------------------------
+--------------------------
 
 * 🌍  I'm based in Trivandrum
 * 🧠  I'm learning Django Rest Framework
